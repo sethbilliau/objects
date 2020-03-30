@@ -13,8 +13,8 @@
 profile_default/
 ipython_config.py
 
-data/
 .DS_Store
+*/.DS_Store/*
 
 data/cubicasa5k.zip
 # Remove previous ipynb_checkpoints
