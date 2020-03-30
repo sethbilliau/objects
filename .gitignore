@@ -16,7 +16,7 @@ ipython_config.py
 .DS_Store
 */.DS_Store/*
 
-data/cubicasa5k.zip
+data/
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
